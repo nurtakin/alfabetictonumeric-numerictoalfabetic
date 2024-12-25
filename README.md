@@ -1,1 +1,2 @@
 # alfabetictonumeric-numerictoalfabetic
+Təqdim edilmiş bu kodda  rəqəmlə təqdim edilən məlumatı sözə, sözlə təqdim edilən məlumatın isə rəqəm qarşılığını görə bilərsiniz. Əlavə olaraq rəqəmləri həm ayrı ayrı, həmdə birlikdə çevirmək mümkündür . Məsələn, 21 həm 21 olaraq , və ya 2 , 1 kimi başa düşmək olar. Yəni (21=U , 1=A, 2=B) . Kodu istəyə bağlı olaraq dəyişdirə , təkliflərinizi və iradlarınızı irəli sürə bilərsiniz.
